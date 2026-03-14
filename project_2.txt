@@ -7,3 +7,5 @@ This is second fine commit in 2_project (second fine commit)
 This is third wrong commit in 2_project (third fine commit: bug, errors)
 
 This is another fine commit in 2_project (fourth fine commit)
+
+This is anothet part 2 fine commit in 2_project (fifth fine commit)
