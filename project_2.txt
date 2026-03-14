@@ -3,3 +3,5 @@ This is my second project file for git and github practice
 This is fine commit in 2_project file
 
 This is second fine commit in 2_project (second fine commit)
+
+This is third wrong commit in 2_project (third fine commit: bug, errors)
