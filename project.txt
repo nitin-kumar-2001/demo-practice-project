@@ -1,3 +1,5 @@
 This is first project for practice git and github
 
 This is first commit (fine)
+
+This is second fine commit (second fine commit)
